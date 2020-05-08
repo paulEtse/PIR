@@ -6,7 +6,7 @@
 ## To run this model 
 ```
 > Open the project folder in matlab
-> run the file INIT_FULL <!--- To initialise the project and launch the interface
+> run the file INIT_FULL <!-- To initialise the project and launch the interface -->
 > select value of T1 leak rate, T2 leak rate and the overflow rate
 > run you simulation by clicking on the lauch button
 ```
