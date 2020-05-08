@@ -7,7 +7,7 @@ ro=1000;
 g=9.81;
 Patm=101325;
 
-app = IHM_PL;
+app = interface;
 
 %PID CONTROLLER PARAMETERS 
 Kp=1e-3;%Gain 
