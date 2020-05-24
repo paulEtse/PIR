@@ -6,7 +6,7 @@ Attack detection tool in the two-tank benchmark
 
 ## Execution
 ```
- open the project folder in matlab
+ open the project folder's in matlab
  run the file run.m
  configure the simulation with the value of T1 leak rate, T2 leak rate etc.
  run the simulation by clicking on the lauch button
@@ -15,7 +15,7 @@ You can see the outputs in a scope the bloc residual circuits of the benchmark
 
 ## Description of the system
 ### Interface
-The interface is used to simulate attacks. The user the select inputs and run the scenario.
+The interface (interface.mlapp) is used to simulate attacks. The user the select inputs and run the scenario.
 - The leak rates are used to simulate a leak in each tank.
 - The overflow rate affects the inlet flow in tank 1.
 - The valve switch is used to open (on 1) or close the valve (on 0). The valve is stuck in a particular position when the stuck box is checked. 
@@ -23,9 +23,9 @@ The interface is used to simulate attacks. The user the select inputs and run th
 - The machine learning algo can be choose too.
 The simulation time is 250s. The values are affected during the time interval attack_start and attack_end.
 ### Benchmark
-The benchmark is the simulink app that is going to run simulation. it is designed by [[1]](#1). We modified it to get someting suitable to our system.
-### Machine learning
-The machine learning block must analyse system's behaviour to detect if there is an attack.
+The benchmark (CHEM_FULL_BENCHMARK.slx) is the simulink app that is going to run simulation. it is designed by [[1]](#1). We modified it to get someting suitable to our system.
+### Machine learning (ML)
+The machine learning block must analyse system's behaviour to detect if there is an attack. all ML models are in the ml folder.
 
 ## Contact 
 For any question you can contact :
