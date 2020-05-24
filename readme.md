@@ -31,15 +31,15 @@ The machine learning block must analyse system's behaviour to detect if there is
 
 ## Contact 
 For any question you can contact:
-* Emna Dhouib [dhouib@etud.insa-toulouse.fr](mailto:dhouib@etud.insa-toulouse.fr)
-* Assa Diarra [diarra@etud.insa-toulouse.fr](mailto:diarra@etud.insa-toulouse.fr)
-* Paul Etse [etse@etud.insa-toulouse.fr](mailto:etse@etud.insa-toulouse.fr)
-* Richard Nedu [nedu@etud.insa-toulouse.fr](mailto:nedu@etud.insa-toulouse.fr)
-* Quentin Mouret [qmouret@etud.insa-toulouse.fr](mailto:qmouret@etud.insa-toulouse.fr)
+* D. Emna [dhouib@etud.insa-toulouse.fr](mailto:dhouib@etud.insa-toulouse.fr)
+* D. Assa [diarra@etud.insa-toulouse.fr](mailto:diarra@etud.insa-toulouse.fr)
+* E. Paul [etse@etud.insa-toulouse.fr](mailto:etse@etud.insa-toulouse.fr)
+* N. Richard [nedu@etud.insa-toulouse.fr](mailto:nedu@etud.insa-toulouse.fr)
+* M. Quentin [qmouret@etud.insa-toulouse.fr](mailto:qmouret@etud.insa-toulouse.fr)
 
 ## References
 <a id="1">[1]</a> 
-E. Chanthery, A. Subias (2020)
+C. Elodie, S. Audine (2020)
 Diagnosis approaches for detection and isolation of
 cyber attacks and faults on a two-tank system
 [online](https://hal.laas.fr/hal-02439489/document)
