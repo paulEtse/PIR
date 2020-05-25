@@ -39,7 +39,6 @@ For any question you can contact:
 
 ## References
 <a id="1">[1]</a> 
-C. Elodie, S. Audine (2020)
-Diagnosis approaches for detection and isolation of
-cyber attacks and faults on a two-tank system
-[online](https://hal.laas.fr/hal-02439489/document)
+Elodie Chanthery, Audine Subias. 
+Diagnosis approaches for detection and isolation of cyber attacks and faults on a two-tank system. 30th International Workshop on Principles of Diagnosis DX'19, Nov 2019, Klagenfurt, Austria.
+[⟨hal-02439489⟩](https://hal.laas.fr/hal-02439489)
