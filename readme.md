@@ -11,7 +11,7 @@ run the file run.m
 configure the simulation with the value of T1 leak rate, T2 leak rate, etc.
 run the simulation by clicking on the lauch button 
 ```
-[//]: # For the first the compilation can last around one minute so be patient!!!.
+[//]: # For the first time, the compilation can last around one minute so be patient!!!.
 
 You can see the outputs in a scope the bloc residual circuits of the benchmark.
 
