@@ -39,6 +39,6 @@ For any question you can contact:
 
 ## References
 <a id="1">[1]</a> 
-Elodie Chanthery, Audine Subias. 
+Elodie Chanthery, Audine Subias. <br>
 Diagnosis approaches for detection and isolation of cyber attacks and faults on a two-tank system. 30th International Workshop on Principles of Diagnosis DX'19, Nov 2019, Klagenfurt, Austria.
 [⟨hal-02439489⟩](https://hal.laas.fr/hal-02439489)
